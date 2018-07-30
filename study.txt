@@ -1,0 +1,3 @@
+the study book of python https://python3-cookbook-personal.readthedocs.io/zh_CN/latest/c12/p01_start_stop_thread.html
+the style of python http://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/
+think python https://cycleuser.gitbooks.io/think-python/content/
