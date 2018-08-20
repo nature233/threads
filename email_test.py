@@ -17,7 +17,7 @@ class Email_Warning(object):
         #the address of mail sender
         self.sender = 'wtwwww123456@163.com'
         #the address of mail recipient
-        self.receivers = ['wutong5@guazi.com']
+        self.receivers = ['418187270@qq.com']
         self.send_message()
 
 
